@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "SeuzH04SVP26a4mKk6In4spad8E=",
+			"path": "github.com/kataras/iris",
+			"revision": "95cdce6dbec7bfc2244ff8beabcf1db6408b417d",
+			"revisionTime": "2018-10-03T17:40:52Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "8a410e7b638dca158bf9e766925842f6651ff828",
+			"revisionTime": "2018-08-25T16:15:26Z"
+		},
+		{
+			"checksumSHA1": "j0z/2h06wsvTkGiLaZ5XFLbMKfo=",
+			"path": "golang.org/x/oauth2",
+			"revision": "c57b0facaced709681d9f90397429b9430a74754",
+			"revisionTime": "2018-10-03T18:30:08Z"
+		},
+		{
+			"checksumSHA1": "z7mSaGccufg15ki2YPd+M5PlsUc=",
+			"path": "golang.org/x/oauth2/google",
+			"revision": "c57b0facaced709681d9f90397429b9430a74754",
+			"revisionTime": "2018-10-03T18:30:08Z"
+		},
+		{
+			"checksumSHA1": "kVcMOSHkz+9d0fvhEBc3FuBBl1U=",
+			"path": "google.golang.org/api/gmail/v1",
+			"revision": "c21459d81882ee61fcd6631fb94dbd9a29bd4377",
+			"revisionTime": "2018-10-07T00:09:08Z"
+		}
+	],
+	"rootPath": "github.com/heroku/dropzone"
+}

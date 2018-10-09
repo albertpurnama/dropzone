@@ -1,0 +1,6 @@
+src/cloud.google.com
+src/gopkg.in
+src/google.golang.org
+src/golang.org
+src/github.com
+pkg/darwin_amd64/*
